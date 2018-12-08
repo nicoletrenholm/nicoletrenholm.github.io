@@ -2,7 +2,9 @@ remote_theme: daviddarnes/alembic
 
 navigation_header:
   Home: /
-  Project 1: /project1_bamap/project1.html
-  Project 2: /project2_sfi/project2.html
-  Project 3: /project1_bamap/project1.html
-  Project 4: /project1_bamap/project1.html
+  Project 1: /P1_SLR/P1_SLR.html
+  Project 2: /P2_Glacier/Glacier.html
+  Project 3: /P3_STEMAA/STEMAA.html
+  Project 4: /P4_AACBI_L6/L6.html
+  Project 5: /P5_VAHabMap/VaHabMap.html
+  Project 7: /P7_FishFinder/FF.html
