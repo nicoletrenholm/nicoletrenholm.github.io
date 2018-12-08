@@ -18,6 +18,9 @@ Croker Bay Glaciers
 ![alt text](/hotspots.JPG)
 ![](https://nicolet3/nicolet3)
 
+![alt text](/glaciers.png)
+![](https://nicoletrenholm.github.io/P1_SLR)
+
 ### Project Parameters & Code
 
 #### Data:
