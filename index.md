@@ -5,9 +5,9 @@
  <small>__Tools__: QGIS, Interpolation,</small>
  
  <small>__Data__: [Supportland](https://supportland.com/), [DEM & Dillon](https://oregoncraftbeer.org/guild/)</small>
- @@ -25,7 +26,7 @@ This example text that briefly describes the map. 
+
  
- [See more details here.](https://nicoletrenholm.github.io/P2_Glacier/Glacier.html)
+  @@ -25,7 +26,7 @@ [See more details here.](https://nicoletrenholm.github.io/P2_Glacier/Glacier.html)
  
 ![It's Fine Alt Text](P2_GLacier/glacier.PNG)
 Here I take you to the glaciated melting fjords off Baffin Bay. A series of study sites impacted by incoming warm Atlantic currents in contact with Greenland and Canada's ocean terminaiting glaciers. We focus on Canada's Devon Ice Cap and the Croker Bay glaciers. [See more details here.](https://nicoletrenholm.github.io/P2_glacier/Glacier.html)
