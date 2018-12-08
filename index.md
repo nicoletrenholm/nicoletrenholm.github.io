@@ -1,4 +1,7 @@
-![It's Fine Alt Text](P1_SLR/Capture.PNG)  @@ -25,7 +26,7 @@ 
+### Nicole Trenholm's GIS Portfolio
+
+@@ -25,7 +26,7 @@ 
+![It's Fine Alt Text](P1_SLR/Capture.PNG)  
  Here you see Baltimore Harbor affected by sea level rise. [See more details here.](https://nicoletrenholm.github.io/P1_SLR/P1_SLR.html)
  Click on the Map and view  which neigborhoods and waterfront regions are most affected by sea level rise.
  
@@ -6,10 +9,9 @@
  
  <small>__Data__: [Supportland](https://supportland.com/), [DEM & Dillon](https://oregoncraftbeer.org/guild/)</small>
 
- 
 
- 
-![It's Fine Alt Text](P2_GLacier/glacier.PNG) @@ -36,6 +37,7 @@ 
+@@ -36,6 +37,7 @@ 
+![It's Fine Alt Text](P2_GLacier/glacier.PNG)
 
 Here I take you to the glaciated melting fjords off Baffin Bay. A series of study sites impacted by incoming warm Atlantic currents in contact with Greenland and Canada's ocean terminaiting glaciers. We focus on Canada's Devon Ice Cap and the Croker Bay glaciers. [See more details here.](https://nicoletrenholm.github.io/P2_Glacier/Glacier.html)
 
@@ -22,10 +24,7 @@ Here I take you to the glaciated melting fjords off Baffin Bay. A series of stud
  @@ -49,11 +51,12 @@ 
  
  ![It's Fine Alt Text](P3_STEMAA/2watersheds.PNG)
- 
-This example text that briefly describes the map. [See more details here.](https://nicoletrenholm.github.io/P3_STEMAA/STEMAA.html)
 Here STEM South River Middle School Team, Breathing Water is led by Project Mentor Nicole Trenholm to develop a map for the Annapolis area community. Together we will deterime coastal debris hotspots and potential high priority cleanup locations based on historic data.
-[See more details here.](https://nicoletrenholm.github.io/P3_STEMAA/STEMAA.html)
  
  <small>__Tools__: QGIS
  
@@ -37,7 +36,7 @@ Here STEM South River Middle School Team, Breathing Water is led by Project Ment
  
  ![It's Fine Alt Text](P4_AACBI/ClusterMap.PNG)
  
- In order to gauge the watershed health of the focus areas for Team Breathing Water's Project I needed to gauge the overall health of the sub-watersheds. [See more details here.](https://nicoletrenholm.github.io/P4_AACBI_L6/L6.html)
+In order to gauge the watershed health of the focus areas for Team Breathing Water's Project I needed to gauge the overall health of the sub-watersheds. [See more details here.](https://nicoletrenholm.github.io/P4_AACBI_L6/L6.html)
  
  <small>__Tools__: QGIS, Geodata
  
@@ -47,11 +46,10 @@ Here STEM South River Middle School Team, Breathing Water is led by Project Ment
 
 ![It's Fine Alt Text](P5_VAHabMap/Capture.PNG)
 Here is unclassified regions of the Rappahannock River being prepared for the NOAA Bay-wide CMECS Oyster Habitat Map after a habitat survey was conducted in 2014.
-
 [See more details here.](https://nicoletrenholm.github.io/P5_VAHabMap/VAHabMap.html)
-This example text that briefly describes the map. [See more details here.](https://nicoletrenholm.github.io/P5_VAHabMap/VAHabMap.html)
 
 <small>__Tools__: QGIS
+ 
 <small>__Data__:
 
 
