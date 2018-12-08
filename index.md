@@ -1,12 +1,10 @@
 ![It's Fine Alt Text](P1_SLR/Capture.PNG)
- Here you see Baltimore Harbor affected by sea level rise.
-[See more details here.](https://nicoletrenholm.github.io/P1_SLR/P1.html)
- This example text that briefly describes the map. [See more details here.](https://nicoletrenholm.github.io/P1_SLR/P1_SLR.html)
+ Here you see Baltimore Harbor affected by sea level rise. [See more details here.](https://nicoletrenholm.github.io/P1_SLR/P1_SLR.html)
  Click on the Map and view  which neigborhoods and waterfront regions are most affected by sea level rise.
  
  <small>__Tools__: QGIS, Interpolation,</small>
- <small>__Data__:
-[Supportland](https://supportland.com/), [DEM & Dillon](https://oregoncraftbeer.org/guild/)</small>
+ 
+ <small>__Data__: [Supportland](https://supportland.com/), [DEM & Dillon](https://oregoncraftbeer.org/guild/)</small>
  @@ -25,7 +26,7 @@ This example text that briefly describes the map. 
  
  [See more details here.](https://nicoletrenholm.github.io/P2_Glacier/Glacier.html)
