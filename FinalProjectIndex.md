@@ -10,8 +10,9 @@
  @@ -25,7 +26,7 @@ This example text that briefly describes the map. 
  
  [See more details here.](https://nicoletrenholm.github.io/P2_Glacier/Glacier.html)
+ 
  ![It's Fine Alt Text](P2_GLacier/glacier.PNG)
- This example text that briefly describes the map. [See more details here.](https://nicoletrenholm.github.io/P2_glacier/Glacier.html)
+Here I take you to the glaciated melting fjords off Baffin Bay. A series of study sites impacted by incoming warm Atlantic currents in contact with Greenland and Canada's ocean terminaiting glaciers. We focus on Canada's Devon Ice Cap and the Croker Bay glaciers. [See more details here.](https://nicoletrenholm.github.io/P2_glacier/Glacier.html)
 [See more details here.](https://nicoletrenholm.github.io/P2_glacier/Glacier.html)
  The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
  @@ -36,6 +37,7 @@ The text below is smaller than the rest of this text. I used html tags for `smal
@@ -19,6 +20,8 @@ Notice I used markdown inside the html tags.
  <small>__Tools__: QGIS, R</small>
  <small>__Data__:
 [Arctic Data](https://www.jpl and ORP), </small>
+
+
  @@ -49,11 +51,12 @@ Notice I used markdown inside the html tags.
  ![It's Fine Alt Text](P3_STEMAA/2watersheds.PNG)
  This project uses a 350px square image for the teaser image, but inside the square image, I used a circle to highlight a certain area.
@@ -29,6 +32,8 @@ Here STEM South River Middle School Team, Breathing Water is led by Project Ment
  <small>__Data__:
 [Anne Arundel County GIS](https://supportland.com/), [State of MD Data](https://oregoncraftbeer.org/guild/)</small>
  @@ -65,9 +68,12 @@ This example text that briefly describes the map. [See more details here.](https
+ 
+ 
  ![It's Fine Alt Text](P4_AACBI/ClusterMap.PNG)
  In order to gauge the watershed health of the focus areas for Team Breathing Water's Project I needed to gauge the overall health of the sub-watersheds. [See more details here.](https://nicoletrenholm.github.io/P4_AACBI_L6/L6.html)
 [See more details here.](https://nicoletrenholm.github.io/P4_AACBI_L6/L6.html)
@@ -37,6 +42,8 @@ Here STEM South River Middle School Team, Breathing Water is led by Project Ment
  <small>__Data__:
 [Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
 @@ -49,11 +51,12 @@ Notice I used markdown inside the html tags.
+
+
 ![It's Fine Alt Text](P5_VAHabMap/Capture.PNG)
 This project uses a 350px square image for the teaser image, but inside the square image, I used a circle to highlight a certain area.
 [See more details here.](https://nicoletrenholm.github.io/P5_VAHabMap/VAHabMap.html)
@@ -44,6 +51,8 @@ This example text that briefly describes the map. [See more details here.](https
 Here is unclassified regions of the Rappahannock River being prepared for the NOAA Bay-wide CMECS Oyster Habitat Map after a habitat survey was conducted.
 <small>__Tools__: QGIS
 <small>__Data__:
+
+
 @@ -49,11 +51,12 @@ Notice I used markdown inside the html tags.
 ![It's Fine Alt Text](P7_FishFinder/ff.PNG)
 This project uses a 350px square image for the teaser image, but inside the square image, I used a circle to highlight a certain area.
