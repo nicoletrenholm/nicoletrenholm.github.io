@@ -13,7 +13,7 @@
  
 ![It's Fine Alt Text](P2_GLacier/glacier.PNG)
 Here I take you to the glaciated melting fjords off Baffin Bay. A series of study sites impacted by incoming warm Atlantic currents in contact with Greenland and Canada's ocean terminaiting glaciers. We focus on Canada's Devon Ice Cap and the Croker Bay glaciers. [See more details here.](https://nicoletrenholm.github.io/P2_glacier/Glacier.html)
-[See more details here.](https://nicoletrenholm.github.io/P2_glacier/Glacier.html)
+[See more details here.](https://nicoletrenholm.github.io/P2_Glacier/Glacier.html)
  The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
  @@ -36,6 +37,7 @@ The text below is smaller than the rest of this text. I used html tags for `smal
 Notice I used markdown inside the html tags.
