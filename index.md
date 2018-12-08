@@ -1,4 +1,4 @@
-![It's Fine Alt Text](P1_SLR/Capture.PNG)
+![It's Fine Alt Text](P1_SLR/Capture.PNG)  @@ -25,7 +26,7 @@ 
  Here you see Baltimore Harbor affected by sea level rise. [See more details here.](https://nicoletrenholm.github.io/P1_SLR/P1_SLR.html)
  Click on the Map and view  which neigborhoods and waterfront regions are most affected by sea level rise.
  
@@ -7,15 +7,13 @@
  <small>__Data__: [Supportland](https://supportland.com/), [DEM & Dillon](https://oregoncraftbeer.org/guild/)</small>
 
  
-  @@ -25,7 +26,7 @@ 
+
  
-![It's Fine Alt Text](P2_GLacier/glacier.PNG)
+![It's Fine Alt Text](P2_GLacier/glacier.PNG) @@ -36,6 +37,7 @@ 
 
 Here I take you to the glaciated melting fjords off Baffin Bay. A series of study sites impacted by incoming warm Atlantic currents in contact with Greenland and Canada's ocean terminaiting glaciers. We focus on Canada's Devon Ice Cap and the Croker Bay glaciers. [See more details here.](https://nicoletrenholm.github.io/P2_Glacier/Glacier.html)
 
- @@ -36,6 +37,7 @@ 
  
-Notice I used markdown inside the html tags.
  <small>__Tools__: QGIS, R</small>
  
  <small>__Data__: [Arctic Data](https://www.jpl and ORP), </small>
