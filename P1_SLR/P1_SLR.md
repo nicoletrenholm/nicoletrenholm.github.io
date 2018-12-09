@@ -9,6 +9,12 @@
 
 ![hustlin_erd](P1_SLR/2.5D Baltimore Sea Level Rise Property Impact.pdf)
 
+<object data="P1_SLR/2.5D Baltimore Sea Level Rise Property Impact.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="P1_SLR/2.5D Baltimore Sea Level Rise Property Impact.pdf</a>.</p>
+    </embed>
+</object>
+
 ## Map Background:
 
 If the Greenland Ice Cap melts it is estimated to add 21 feet of sea level rise in which all of the city of Baltimore would be impacted. Here I focus on the 10 foot elevation contour to reveal the residential and industrial properties impacted by sea level rise. I include a streamlined 10, 15, and 20 foot elevation contour.
