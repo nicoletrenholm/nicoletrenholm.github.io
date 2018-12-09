@@ -1,6 +1,7 @@
----
-Title: Nicole Trenholm's GIS Portfolio
----
+
+
+#  Title: Nicole Trenholm's GIS Portfolio
+
 
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
