@@ -7,7 +7,7 @@
 
 ##  P1_SLR/2.5D Baltimore Sea Level Rise Property Impact
 
-![hustlin_erd]( P1_SLR/2.5D Baltimore Sea Level Rise Property Impact.pdf)
+![hustlin_erd](P1_SLR/2.5D Baltimore Sea Level Rise Property Impact.pdf)
 
 ## Map Background:
 
