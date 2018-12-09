@@ -2,7 +2,6 @@
 
 #  Title: Nicole Trenholm's GIS Portfolio
 
-
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
@@ -10,8 +9,9 @@
 ## Around Year 3000 Baltimore Harbor and Sea Level Rise
 
 ![It's Fine Alt Text](P1_SLR/Capture.PNG)  
- Here you see Baltimore Harbor affected by sea level rise. [See more details here.](https://nicoletrenholm.github.io/P1_SLR/P1_SLR.html)
+ Here you see Baltimore Harbor affected by sea level rise. 
  Click on the Map and view  which neigborhoods and waterfront regions are most affected by sea level rise.
+ [See more details here.](https://nicoletrenholm.github.io/P1_SLR/P1_SLR.html)
  
  <small>__Tools__: QGIS, Interpolation,</small>
  
@@ -38,10 +38,12 @@ Here I take you to the glaciated melting fjords off Baffin Bay. A series of stud
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
  ## STEM South River Middle School Students & Mentor Build Coastal Area Marine Debris Pollution Zone Map
+ 
  ![It's Fine Alt Text](P3_STEMAA/2watersheds.PNG)
  
-Here STEM South River Middle School Team, Breathing Water is led by Project Mentor Nicole Trenholm to develop a map for the Annapolis area community. Together we will deterime coastal debris hotspots and potential high priority cleanup locations based on historic data.
- 
+ Here STEM South River Middle School Team, Breathing Water is led by Project Mentor Nicole Trenholm to develop a map for the Annapolis    area community. Together we will deterime coastal debris hotspots and potential high priority cleanup locations based on historic data.
+  [See more details here.](https://nicoletrenholm.github.io/P3_STEMAA/STEMAA.html)
+  
  <small>__Tools__: QGIS
  
  <small>__Data__: [Anne Arundel County GIS](https://supportland.com/), </small>
