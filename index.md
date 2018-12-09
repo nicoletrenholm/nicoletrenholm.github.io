@@ -3,13 +3,14 @@
 
 
 ## Around Year 3000 Baltimore Harbor and Sea Level Rise
-@@ -25,7 +26,7 @@ ![It's Fine Alt Text](P1_SLR/Capture.PNG)  
+@@ -25,7 +26,7 @@ 
+![It's Fine Alt Text](P1_SLR/Capture.PNG)  
  Here you see Baltimore Harbor affected by sea level rise. [See more details here.](https://nicoletrenholm.github.io/P1_SLR/P1_SLR.html)
  Click on the Map and view  which neigborhoods and waterfront regions are most affected by sea level rise.
  
  <small>__Tools__: QGIS, Interpolation,</small>
  
- <small>__Data__: [Supportland](https://supportland.com/), [DEM & Dillon](https://oregoncraftbeer.org/guild/)</small>
+ <small>__Data__: [Baltimore](https://supportland.com/), [DEM & Dillon](https://oregoncraftbeer.org/guild/)</small>
 
 ## Oceans Help Melt Glaciers: Expeditions 2015-2018
 @@ -36,6 +37,7 @@ 
@@ -37,7 +38,7 @@ Here STEM South River Middle School Team, Breathing Water is led by Project Ment
  @@ -65,9 +68,12 @@
  
 ## State to Anne Arundel County Watershed Health Index Spatial Autocorrelation Study
- ![It's Fine Alt Text](P4_AACBI/ClusterMap.PNG)
+ ![It's Fine Alt Text](P4_AACBI_L6/ClusterMap.PNG)
  
 In order to gauge the watershed health of the focus areas for Team Breathing Water's Project I needed to gauge the overall health of the sub-watersheds. [See more details here.](https://nicoletrenholm.github.io/P4_AACBI_L6/L6.html)
  
