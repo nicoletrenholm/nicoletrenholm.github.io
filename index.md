@@ -2,7 +2,7 @@
 
 @@ -25,7 +26,7 @@ 
 
-##Around Year 3000 Baltimore Harbor and Sea Level Rise
+## Around Year 3000 Baltimore Harbor and Sea Level Rise
 ![It's Fine Alt Text](P1_SLR/Capture.PNG)  
  Here you see Baltimore Harbor affected by sea level rise. [See more details here.](https://nicoletrenholm.github.io/P1_SLR/P1_SLR.html)
  Click on the Map and view  which neigborhoods and waterfront regions are most affected by sea level rise.
@@ -11,7 +11,7 @@
  
  <small>__Data__: [Supportland](https://supportland.com/), [DEM & Dillon](https://oregoncraftbeer.org/guild/)</small>
 
-##Oceans Help Melt Glaciers: Expeditions 2015-2018
+## Oceans Help Melt Glaciers: Expeditions 2015-2018
 @@ -36,6 +37,7 @@ 
 ![It's Fine Alt Text](P2_GLacier/glacier.PNG)
 
