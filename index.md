@@ -36,7 +36,7 @@ Here STEM South River Middle School Team, Breathing Water is led by Project Ment
  
  @@ -65,9 +68,12 @@
  
- ## State to Anne Arundel County Watershed Health Index Spatial Autocorrelation Study
+## State to Anne Arundel County Watershed Health Index Spatial Autocorrelation Study
  ![It's Fine Alt Text](P4_AACBI/ClusterMap.PNG)
  
 In order to gauge the watershed health of the focus areas for Team Breathing Water's Project I needed to gauge the overall health of the sub-watersheds. [See more details here.](https://nicoletrenholm.github.io/P4_AACBI_L6/L6.html)
