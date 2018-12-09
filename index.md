@@ -1,4 +1,4 @@
-### Nicole Trenholm's GIS Portfolio
+# Nicole Trenholm's GIS Portfolio
 
 @@ -25,7 +26,7 @@ 
 
