@@ -58,10 +58,16 @@ In order to gauge the watershed health of the focus areas for Team Breathing Wat
  <small>__Tools__: QGIS, Geodata
  
  <small>__Data__: [Watershed Data](https://needlinkhere)
+ 
+ </div>
+</div>
+<!--This is the second row of projects -->
+<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
 ## Mapping VA's Unclassified Oyster Habitat in the Rappahannock River for a NOAA Bay-Wide Map
  
-@@ -49,11 +51,12 @@ ![It's Fine Alt Text](P5_VAHabMap/Capture.PNG)
+![It's Fine Alt Text](P5_VAHabMap/Capture.PNG)
 
 Here is unclassified regions of the Rappahannock River being prepared for the NOAA Bay-wide CMECS Oyster Habitat Map after a habitat survey was conducted in 2014.
 [See more details here.](https://nicoletrenholm.github.io/P5_VAHabMap/VAHabMap.html)
@@ -70,8 +76,10 @@ Here is unclassified regions of the Rappahannock River being prepared for the NO
  
 <small>__Data__: CMECS classiffication, Ocean Research Project hydrographic survey data, grab samples (Nicole Trenholm)
 
+</div>
 
-@@ -49,11 +51,12 @@ 
+<div style="display: table-cell; width:370px" markdown="1">
+
 ## Citizen Science: Recreational Mariners Monitored Tagged Marine Biodiversity Cruising Coastal Waters
 ![It's Fine Alt Text](P7_FishFinder/ff.PNG)
 
@@ -81,5 +89,6 @@ There are dozens of recreational mariners that take to the coastline to fulfill 
  
 <small>__Data__: Ocean Research Project data from Survey123 Fish Finder app (Nicole Trenholm)
  
- </div>
 </div>
+
+<div style="display: table-cell; width:370px" markdown="1">
