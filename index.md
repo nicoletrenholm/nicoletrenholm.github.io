@@ -8,7 +8,7 @@
 
 ## Around Year 3000 Baltimore Harbor and Sea Level Rise
 
-![It's Fine Alt Text](P1_SLR/Capture.PNG)  
+![It's Fine Alt Text](P1_SLR/Capture.PNG =350x200)  
  Here you see Baltimore Harbor affected by sea level rise. 
  Click on the Map and view  which neigborhoods and waterfront regions are most affected by sea level rise.
  [See more details here.](https://nicoletrenholm.github.io/P1_SLR/P1_SLR.html)
@@ -23,7 +23,7 @@
 
 ## Oceans Help Melt Glaciers: Expeditions 2015-2018
 
-![It's Fine Alt Text](P2_Glacier/glacier.PNG)  
+![It's Fine Alt Text](P2_Glacier/glacier.PNG =350x200)  
 Here I take you to the glaciated melting fjords off Baffin Bay. A series of study sites impacted by incoming warm Atlantic currents in contact with Greenland and Canada's ocean terminaiting glaciers. We focus on Canada's Devon Ice Cap and the Croker Bay glaciers. [See more details here.](https://nicoletrenholm.github.io/P2_Glacier/Glacier.html)
 
  
