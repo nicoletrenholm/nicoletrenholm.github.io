@@ -5,7 +5,7 @@ All projects are intended to become living project locations for related project
 data is available and analysis is needed.
 
 Here, I list the near and long-term improvements planned for Project 1 and 2. Projects 1 & 2 were submitted earlier in the class. The short-term improvements will be accomplished before the end of this course.
-There are 3 new Projects I added as final projects that are in development. I will develop their Github project pages and early data map drafts and work up these locations as my projects evolve.
+There are 3 new Projects I added as final projects that are in development. I will develop their Github project pages and early data map drafts and work up these locations as my projects evolve throughout my graduate work.
 
 ## Project 1: P1_SLR
 
