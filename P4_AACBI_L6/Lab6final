@@ -1,0 +1,25 @@
+
+# P4 AACBI_L6
+
+This is Lab 6. A lab meant to demonstrate the use of Geoda with a dataset to expierament with varying forms of spatial auto-correlation GUIs.
+
+![It's Fine Alt Text](P4_AACBI_L6/clusterMap12.PNG)
+
+![It's Fine Alt Text](P4_AACBI_L6/significance12.PNG)
+
+![It's Fine Alt Text](P4_AACBI_L6/healthy12.PNG)
+
+![It's Fine Alt Text](P4_AACBI_L6/Significance12.PNG)
+
+![It's Fine Alt Text](P4_AACBI_L6/SignificanceMap.PNG)
+
+![It's Fine Alt Text](P4_AACBI_L6/ClusterMap.PNG)
+
+![It's Fine Alt Text](P4_AACBI_L6/anne arundel CBI watersheds.PNG)
+
+![It's Fine Alt Text](P4_AACBI_L6/nosignificanceAA.PNG)
+
+Instead of looking at Guerry region data I focused on a dataset to help me prepare in one of my final projects.
+
+I wanted to assess the clustering, significance distribution and Moran's I Local value for a dataset that relays the health siginificance associatd wtih Maryland sub-watersheds. Good thing the Moran's I values overall are projected as positive towards healthier watersheds.
+Though the watersheds I am paying most attention to didi not have a close spatial correlation nor any significant clustering.
