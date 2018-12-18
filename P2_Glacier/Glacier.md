@@ -15,7 +15,7 @@ In the lonterm in this project page I will develop my GIS media, graphics, anima
 
 
 <center><a href="https://www.youtube.com/watch?time_continue=1&v=pWfDdVi2xhs
-" target="_blank"><img src="youtube.PNG" 
+" target="_blank"><img src="youtube.PNG" <center>
 alt="IMAGE ALT TEXT HERE" width="440" height="380" border="10" /></a>
 
 ### Canada's Northwest Passage:
