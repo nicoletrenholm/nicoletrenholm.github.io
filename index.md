@@ -37,7 +37,7 @@ Here I take you to the glaciated melting fjords off Baffin Bay. A series of stud
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
- #### STEM South River Middle School Students & Mentor Build Coastal Area Marine Debris Pollution Zone Map
+#### STEM South River Middle School Students & Mentor Build Coastal Area Marine Debris Pollution Zone Map
  
  ![It's Fine Alt Text](P3_STEMAA/anna.png)
  
