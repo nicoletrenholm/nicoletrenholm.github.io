@@ -8,7 +8,7 @@
 
 ### Around Year 3000 Baltimore Harbor and Sea Level Rise
 
-![It's Fine Alt Text](P1_SLR/testcircle.PNG)
+![It's Fine Alt Text](P1_SLR/testcircle.png)
  Here you see Baltimore Harbor affected by sea level rise. 
  Click on the Map and view  which neigborhoods and waterfront regions are most affected by sea level rise.
  [See more details here.](https://nicoletrenholm.github.io/P1_SLR/P1_SLR.html)
