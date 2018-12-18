@@ -10,7 +10,7 @@ This data is the baseline for my graduate research work at UMBC.
 
 In this project page I will develop my GIS media, graphics, animations and data analysis. I will also include locations to data respositoiries that have more relevant polar datasets.
 
-[![IMAGE ALT TEXT HERE](youtube.PNG)](https://youtube/pWfDdVi2xhshttps://www.youtube.com/watch?time_continue=1&v=pWfDdVi2xhs)
+[![IMAGE ALT TEXT HERE](youtube.PNG)](https://www.youtube.com/watch?time_continue=1&v=pWfDdVi2xhs)
 
 
 ### Canada's Northwest Passage:
