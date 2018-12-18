@@ -5,7 +5,7 @@
 
 Check out 
 
-[![IMAGE ALT TEXT HERE](youtube.png)](http://https://youtu.be/pWfDdVi2xhs)
+[![IMAGE ALT TEXT HERE](youtube.png)](https://youtube/pWfDdVi2xhs)
 
 
 ### Canada's Northwest Passage:
