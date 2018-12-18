@@ -3,6 +3,12 @@
 
 ### Project 2
 
+Check out 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="https://youtu.be/pWfDdVi2xhs" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ### Canada's Northwest Passage:
 Croker Bay Glaciers
 ##### Changes in ocean temperature at melting glaciers at select depths from the sea surface to the seafloor.
