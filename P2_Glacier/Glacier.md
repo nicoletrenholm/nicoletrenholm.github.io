@@ -1,4 +1,8 @@
-![alt text](/hotspots.JPG)
+
+
+
+
+![alt text](inglefieldbanner.PNG)
 
 
 ### Project 2
