@@ -39,7 +39,7 @@ Here I take you to the glaciated melting fjords off Baffin Bay. A series of stud
 
  ### STEM South River Middle School Students & Mentor Build Coastal Area Marine Debris Pollution Zone Map
  
- ![It's Fine Alt Text](P3_STEMAA/2watersheds.PNG)
+ ![It's Fine Alt Text](P3_STEMAA/anna.png)
  
  Here STEM South River Middle School Team, Breathing Water is led by Project Mentor Nicole Trenholm to develop a map for the Annapolis    area community. Together we will deterime coastal debris hotspots and potential high priority cleanup locations based on historic data.
   [See more details here.](https://nicoletrenholm.github.io/P3_STEMAA/STEMAA.html)
