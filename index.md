@@ -83,7 +83,7 @@ Here is unclassified regions of the Rappahannock River being prepared for the NO
 <div style="display: table-cell; width:370px" markdown="1">
 
 ### Citizen Science: Recreational Mariners Monitored Tagged Marine Biodiversity Cruising Coastal Waters
-![It's Fine Alt Text](P7_FishFinder/ff.PNG)
+![It's Fine Alt Text](P7_FishFinder/fff.png)
 
 There are dozens of recreational mariners that take to the coastline to fulfill a retiree or transients dream of exploring and sailing the US coastal waters, well until they are ready to take off around the world. Here sailors become monitoring stations for tagged marine species within the Fish Finder Program of Ocean Research Project and help monitor managed, endangered and invasive biodiversity. Data that is made available to the marine biologists who tagged the species in the first place. Here we watch their progress in monitoring the coastline. [See more details here.](https://nicoletrenholm.github.io/P7_FishFinder/ff.html)
 
