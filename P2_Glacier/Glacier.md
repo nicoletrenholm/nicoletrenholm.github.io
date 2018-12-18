@@ -1,11 +1,16 @@
-
+![alt text](/hotspots.JPG)
 
 
 ### Project 2
 
-Check out 
+In Project 2, I take you to the Arctic. Here we are in Greenland and the Canadian Arctic Archipelago where I have been
+mapping out the seafloor and tracing warm water of Atlantic origin up into the glaciated fjords. Check out my film below that
+discusses my incredibly challenging survey in mapping out the uncharted Inglefield Fjord, near the top of the world! 79° North.
+This data is the baseline for my graduate research work at UMBC.
 
-[![IMAGE ALT TEXT HERE](youtube.PNG)](https://youtube/pWfDdVi2xhs)
+In this project page I will develop my GIS media, graphics, animations and data analysis. I will also include locations to data respositoiries that have more relevant polar datasets.
+
+[![IMAGE ALT TEXT HERE](youtube.PNG)](https://youtube/pWfDdVi2xhshttps://www.youtube.com/watch?time_continue=1&v=pWfDdVi2xhs)
 
 
 ### Canada's Northwest Passage:
