@@ -53,7 +53,7 @@ Here I take you to the glaciated melting fjords off Baffin Bay. A series of stud
 <div style="display: table-cell; width:370px" markdown="1">
  
 ### State to Anne Arundel County Watershed Health Index Spatial Autocorrelation Study
- ![It's Fine Alt Text](P4_AACBI_L6/anna.png)
+ ![It's Fine Alt Text](P4_AACBI_L6/cbi.tif)
  
 In order to gauge the watershed health of the focus areas for Team Breathing Water's Project I needed to gauge the overall health of the sub-watersheds. [See more details here.](https://nicoletrenholm.github.io/P4_AACBI_L6/L6.html)
  
@@ -69,7 +69,7 @@ In order to gauge the watershed health of the focus areas for Team Breathing Wat
 
 ### Mapping VA's Unclassified Oyster Habitat in the Rappahannock River for a NOAA Bay-Wide Map
  
-![It's Fine Alt Text](P5_VAHabMap/Capture.PNG)
+![It's Fine Alt Text](P5_VAHabMap/oyster.png)
 
 Here is unclassified regions of the Rappahannock River being prepared for the NOAA Bay-wide CMECS Oyster Habitat Map after a habitat survey was conducted in 2014.
 [See more details here.](https://nicoletrenholm.github.io/P5_VAHabMap/VAHabMap.html)
