@@ -6,7 +6,7 @@
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
-### Around Year 3000 Baltimore Harbor and Sea Level Rise
+## Around Year 3000 Baltimore Harbor and Sea Level Rise
 
 ![It's Fine Alt Text](P1_SLR/testcircle.png)
  Here you see Baltimore Harbor affected by sea level rise. 
