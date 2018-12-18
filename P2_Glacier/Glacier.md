@@ -25,14 +25,14 @@ Croker Bay Glaciers
 - Elevation in Meters
 
 
-![alt text](/giffy.gif)
-![](https://nicolet3/nicolet3)
+![alt text](giffy.gif)
+
 
 ### Red Points Represent the Prevailing Route for Inbound Warm Currents.
 ##### Currents cutting through the natural deep channel  that brings warm water to melt the ocean terminaiting glacier
 
-![alt text](/hotspots.JPG)
-![](https://nicolet3/nicolet3)
+![alt text](hotspots.JPG)
+
 
 ### Project Parameters & Code
 
