@@ -5,9 +5,8 @@
 
 Check out 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="https://youtu.be/pWfDdVi2xhs" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[![IMAGE ALT TEXT HERE](youtube.png)](http://https://youtu.be/pWfDdVi2xhs)
+
 
 ### Canada's Northwest Passage:
 Croker Bay Glaciers
