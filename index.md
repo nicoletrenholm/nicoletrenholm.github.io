@@ -10,7 +10,7 @@
 
 ![It's Fine Alt Text](P1_SLR/testcircle.png)
 <a href="https://nicoletrenholm.github.io/P1_SLR/P1_SLR.html
-" target="_blank"><img src="testcircle.png" <center>
+
  Here you see Baltimore Harbor affected by sea level rise. 
  Click on the Map and view  which neigborhoods and waterfront regions are most affected by sea level rise.
  [See more details here.](https://nicoletrenholm.github.io/P1_SLR/P1_SLR.html)
