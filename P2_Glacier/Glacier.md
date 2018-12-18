@@ -14,10 +14,9 @@ In the lonterm in this project page I will develop my GIS media, graphics, anima
 
 
 
-<a href="https://www.youtube.com/watch?time_continue=1&v=pWfDdVi2xhs
+<center><a href="https://www.youtube.com/watch?time_continue=1&v=pWfDdVi2xhs
 " target="_blank"><img src="youtube.PNG" 
 alt="IMAGE ALT TEXT HERE" width="440" height="380" border="10" /></a>
-<center><img src='youtube.PNG'></center>
 
 ### Canada's Northwest Passage:
 Croker Bay Glaciers
