@@ -54,7 +54,7 @@ Here I take you to the glaciated melting fjords off Baffin Bay. A series of stud
  
 #### State to Anne Arundel County Watershed Health Index Spatial Autocorrelation Study
 
-![](P4_AACBI_L6/L6.html)
+![](P4_AACBI_L6/cbi1.png)
 In order to gauge the watershed health of the focus areas for Team Breathing Water's Project I needed to gauge the overall health of the sub-watersheds. [See more details here.](https://nicoletrenholm.github.io/P4_AACBI_L6/L6.html)
  
  <small>__Tools__: QGIS, Geodata
