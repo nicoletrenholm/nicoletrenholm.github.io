@@ -1,6 +1,6 @@
 
 For a real time look at active Fish Finder monitoring locations.
-
+You have got to see this check out where they are sailing and anchoring at the link below.
 [Realtime Fish Finder Activity Here](https://orpteam.maps.arcgis.com/apps/webappviewer/index.html?id=c5085c49856d48a9b1e7d15ff60d1b9e)
 
   
