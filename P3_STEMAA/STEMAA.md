@@ -1,4 +1,4 @@
-### GIS Maps from Google Earh to qGIS with STEM Anne Arundel County Middle School.
+### GIS Maps from Google Earth to qGIS with STEM Anne Arundel County Middle School.
 #### We want to keep the coastaline clean and debris from entering the waterway.
 
 
