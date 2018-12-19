@@ -23,6 +23,7 @@ Croker Bay Glaciers
 
 
 ![alt text](giffy.gif)
+This giffy is only so meaningful. After I recover my 3D version of this similiar giffy with a heatmap legend that relates the termeprature variability at each elevation I will re make this giffy and slow it down for easier interpreation of glacial melt discharge and incoming warm ocean boundary current.
 
 
 ### Red Points Represent the Prevailing Route for Inbound Warm Currents.
