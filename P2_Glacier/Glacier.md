@@ -14,6 +14,17 @@ In the longterm in this project page I will develop my GIS media, graphics, anim
                                                                                            
 ![](youtube.PNG)(https://www.youtube.com/watch?time_continue=1&v=pWfDdVi2xhs)
 
+Project Phase 1:
+
+![](DSC_0055_1.jpg)
+
+![](overview1.PNG)
+
+Project Phase 2:
+
+![](overview1.PNG)
+
+Earlier publications, project blogs and activities [Check out Ocean Research Project Inc. 501c3](https://wwww.oceanresearchproject.org)
 
 ### Canada's Northwest Passage:
 Croker Bay Glaciers
