@@ -22,7 +22,7 @@ Project Phase 1:
 
 Project Phase 2:
 
-![](overview1.PNG)
+![](phase2.PNG)
 
 Earlier publications, project blogs and activities [Check out Ocean Research Project Inc. 501c3](https://wwww.oceanresearchproject.org)
 
