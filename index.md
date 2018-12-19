@@ -27,7 +27,7 @@
 
 #### Oceans Help Melt Glaciers: Expeditions 2015-2018
 
-![It's Fine Alt Text](P2_Glacier/green.png)
+<center><a href="https://nicoletrenholm.github.io/P2_Glacier/Glacier.html" target="_blank"><img src="P2_Glacier/green.png" <center>
 Here I take you to the glaciated melting fjords off Baffin Bay. A series of study sites impacted by incoming warm Atlantic currents in contact with Greenland and Canada's ocean terminaiting glaciers. We focus on Canada's Devon Ice Cap and the Croker Bay glaciers. [See more details here.](https://nicoletrenholm.github.io/P2_Glacier/Glacier.html)
 
  
