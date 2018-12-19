@@ -6,9 +6,10 @@
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
-#### Around Year 3000 Baltimore Harbor and Sea Level Rise
+#### Around Year 2600 Baltimore Harbor and Sea Level Rise
 
-![It's Fine Alt Text](P1_SLR/testcircle.png)
+
+<center><a href="https://nicoletrenholm.github.io/P1_SLR/P1_SLR.html" target="_blank"><img src="P1_SLR/testcircle.png" <center>
 
 
 
