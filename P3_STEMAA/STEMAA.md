@@ -14,15 +14,13 @@ Local students come together to direct the mitigation of the effort.
 
 Here we start with a basic map outlining the South and Severn River.
 Public parks are polygons in green and you see a streams layer.
-The red contour near the coastline reflects the 8ft storm surge level from the infamous Hurrican Isabel of 2003.
+The red contour near the coastline reflects the 8ft storm surge level from the infamous Hurrican Isabel of 2003. 
 
-![](anna.png)
+Next we will create a buffer surrounding the streams and coastline within a sea level to 8 foot elevation contour layer.
 
-Next we will create a buffer surounding the streams and coastaline within a sea level to 8 foot elevation contour layer.
+At that point we can really see where the problem spots are and relate whether known cleanup efforts are targeting these zones.
 
-Now we can really see where the problem spots are and related whether known cleanup efforts are targeting these zones.
-
-The final maps will be presented to the Annapolis community by Team Breathing Water.
+The final maps will be presented to the Annapolis community by Team Breathing Water at the end of the school year.
 
 Students will use this study to best develop a weather monitoring system that will inform the community of coastal pollution mitigation alerts.
 
