@@ -13,7 +13,6 @@ mapping out the seafloor and tracing warm water of Atlantic origin up into the g
 In the lonterm in this project page I will develop my GIS media, graphics, animations and data analysis. I will also include locations to data respositoiries that have more relevant polar datasets. It will be part a research story map page and part a progression of various map revealing my data review, project plannning phases and data analysis. As I become more savyy with R, Python and SQL I will share and demonstrate my data processing code to provide transparency and repeatability with my analysis.
 
 
-
 <center><a href="https://www.youtube.com/watch?time_continue=1&v=pWfDdVi2xhs
 " target="_blank"><img src="youtube.PNG" <center>
 
