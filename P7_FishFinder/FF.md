@@ -6,4 +6,4 @@ For a real time look at active Fish Finder monitoring locations.
   This is a snapshot of a Fish Finder team monitoring in various locations for tagged marine species. Most of these teams are cruising
   on sailboats or poweryachts and having the time of their life with their friends and family while acting as surveyors for marine species activity.
 
-![alt text](snapshot.png)
+![alt text](snapshot.PNG)
