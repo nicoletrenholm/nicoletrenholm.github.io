@@ -55,7 +55,6 @@ Here I take you to the glaciated melting fjords off Baffin Bay. A series of stud
 #### State to Anne Arundel County Watershed Health Index Spatial Autocorrelation Study
 
 ![](P4_AACBI_L6/L6.html)
-<a href="https://nicoletrenholm.github.io/P4_AACBI_L6/L6.html" target="_blank"><img src="P4_AACBI_L6/cbi1.png" 
 In order to gauge the watershed health of the focus areas for Team Breathing Water's Project I needed to gauge the overall health of the sub-watersheds. [See more details here.](https://nicoletrenholm.github.io/P4_AACBI_L6/L6.html)
  
  <small>__Tools__: QGIS, Geodata
@@ -84,7 +83,6 @@ Here is unclassified regions of the Rappahannock River being prepared for the NO
 
 #### Citizen Science: Recreational Mariners Monitored Tagged Marine Biodiversity Cruising Coastal Waters
 ![](P7_FishFinder/fff.png)
-<a href="https://nicoletrenholm.github.io/P7_FishFinder/ff.html" target="_blank"><img src="P7_FishFinder/fff.png" 
 There are dozens of recreational mariners that take to the coastline to fulfill a retiree or transients dream of exploring and sailing the US coastal waters, well until they are ready to take off around the world. Here sailors become monitoring stations for tagged marine species within the Fish Finder Program of Ocean Research Project and help monitor managed, endangered and invasive biodiversity. Data that is made available to the marine biologists who tagged the species in the first place. Here we watch their progress in monitoring the coastline. [See more details here.](https://nicoletrenholm.github.io/P7_FishFinder/ff.html)
 
 <small>__Tools__: QGIS, ESRI Survey123
