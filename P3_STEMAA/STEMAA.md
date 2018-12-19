@@ -1,3 +1,6 @@
+### GIS Maps from Google Earh to qGIS with STEM Anne Arundel County Middle School.
+#### We want to keep the coastaline clean and debris from entering the waterway.
+
 
 ![](bs-md-hogan-franchot-bay-20180801.jpg)
 
@@ -19,6 +22,8 @@ The red contour near the coastline reflects the 8ft storm surge level from the i
 Next we will create a buffer surrounding the streams and coastline within a sea level to 8 foot elevation contour layer.
 
 At that point we can really see where the problem spots are and relate whether known cleanup efforts are targeting these zones.
+
+We will look at a number of sitting water runoff infrastructure in relation to our results.
 
 The final maps will be presented to the Annapolis community by Team Breathing Water at the end of the school year.
 
