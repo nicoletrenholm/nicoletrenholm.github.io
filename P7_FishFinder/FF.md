@@ -7,3 +7,14 @@ For a real time look at active Fish Finder monitoring locations.
   on sailboats or poweryachts and having the time of their life with their friends and family while acting as surveyors for marine species activity.
 
 ![alt text](snapshot.PNG)
+
+Eventually I will show detection data assocaited with the monitoring data and metrics such asn hours of monitoring verse detections.
+General maps of existing acoustic receiver arrays and tagging projects.
+
+Areas underrepresented by fixed bio acoustic receiver monitoring locations that have a species return, interannual activity will be identified as key locations recreational mariners are optimal to support biodiversity monitoring activity.
+
+[To learn more about the Fish Finder Program click this link.] (http://www.oceanresearchproject.org/programs/science/citizen-science/)
+
+
+![alt text](eh.PNG)
+
