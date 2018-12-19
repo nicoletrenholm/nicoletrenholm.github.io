@@ -11,9 +11,8 @@ In Project 2, I take you to the Arctic. Here we are in Greenland and the Canadia
 mapping out the seafloor and tracing warm water of Atlantic origin up into the glaciated fjords. Check out my Video Blog series film 4 or 4 below that takes you to my study site and discusses my incredibly challenging survey in mapping out the uncharted Inglefield Fjord, near the top of the world! 79° North. This data is the baseline for my graduate research work at UMBC. I the majority of my field research on sailing craft with a program Ocean Research project 501c3 based out of Annapolis, MD.
 
 In the longterm in this project page I will develop my GIS media, graphics, animations and data analysis. I will also include locations to data respositoiries that have more relevant polar datasets. It will be part a research story map page and part a progression of various map revealing my data review, project plannning phases and data analysis. As I become more savyy with R, Python and SQL I will share and demonstrate my data processing code to provide transparency and repeatability with my analysis.
-
-
-<a href="https://www.youtube.com/watch?time_continue=1&v=pWfDdVi2xhs" target="_blank"><img src="youtube.PNG"
+                                                                                           
+[![Alt text](youtube.png)](https://www.youtube.com/watch?time_continue=1&v=pWfDdVi2xhs)
 
 
 ### Canada's Northwest Passage:
