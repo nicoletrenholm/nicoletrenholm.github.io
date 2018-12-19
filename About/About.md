@@ -1,2 +1,2 @@
 
-![https://trenholmorp.wixsite.com/nicole-trenholm](https://trenholmorp.wixsite.com/nicole-trenholm)
+[Nicole Trenholm](https://trenholmorp.wixsite.com/nicole-trenholm)
